@@ -1,3 +1,4 @@
+#- f(x) = x² - 4
 from matplotlib.pyplot import *
 from numpy import *
 
