@@ -1,3 +1,4 @@
+#- f(x) = 0,5x - 2
 from matplotlib.pyplot import *
 from numpy import *
 
