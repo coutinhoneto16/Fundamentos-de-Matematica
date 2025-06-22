@@ -1,3 +1,4 @@
+#- f(x) = 2x + 1
 from matplotlib.pyplot import *
 from numpy import *
 
