@@ -1,3 +1,4 @@
+#- f(x) = -3x + 4
 from matplotlib.pyplot import *
 from numpy import *
 
